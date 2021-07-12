@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoAlbum</string>
+    <string name="text_title">Title</string>
+    <string name="text_price">Price</string>
+    <string name="text_description">Description</string>
+    <string name="text_selected_photos">Selected Photos</string>
+    <string name="button_select_photos">Select Photos</string>
+    <string name="text_category">Category</string>
+</resources>

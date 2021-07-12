@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_general">16dp</dimen>
+    <dimen name="padding_general">16dp</dimen>
+    <dimen name="text_size_product_title_detail">24sp</dimen>
+    <dimen name="text_size_product_title_card">24sp</dimen>
+    <dimen name="text_size_product_price_card">24sp</dimen>
+    <dimen name="text_size_general">16sp</dimen>
+    <dimen name="text_size_product_carousel">12sp</dimen>
+</resources>
